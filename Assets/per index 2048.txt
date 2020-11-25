@@ -1,0 +1,7 @@
+10.7666015625
+
+
+
+index 8-9 di 100Hz
+index 0-1 di 9Hz
+index 1 di 10Hz
